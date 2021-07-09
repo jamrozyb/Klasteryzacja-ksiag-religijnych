@@ -1,1 +1,1 @@
-# Klasyfikacja-ksi-g-religijnych
+# Klasteryzacja-ksiąg-religijnych
